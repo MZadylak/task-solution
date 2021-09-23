@@ -2,8 +2,8 @@
   "data": [
     {
       "name": "Umyć zęby",
-      "time": 60,
-      "isRunning": true,
+      "time": 7,
+      "isRunning": false,
       "isDone": false,
       "isRemoved": false,
       "id": 1
@@ -11,7 +11,7 @@
     {
       "name": "Zatankować samochód",
       "time": 0,
-      "isRunning": true,
+      "isRunning": false,
       "isDone": false,
       "isRemoved": false,
       "id": 2
