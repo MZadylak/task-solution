@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "Umyć zęby",
+      "time": 60,
+      "isRunning": true,
+      "isDone": false,
+      "isRemoved": false,
+      "id": 1
+    },
+    {
+      "name": "Zatankować samochód",
+      "time": 0,
+      "isRunning": true,
+      "isDone": false,
+      "isRemoved": false,
+      "id": 2
+    },
+    {
+      "name": "Iść do sklepu",
+      "time": 0,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false,
+      "id": 3
+    },
+    {
+      "name": "asddsaasd",
+      "time": 0,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false,
+      "id": 4
+    }
+  ]
+}
